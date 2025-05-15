@@ -117,7 +117,7 @@ struct PokemonDetailView: View {
                     .font(.largeTitle)
                     .fontWeight(.bold)
 
-                Text(pokemon.displ)
+                Text(pokemon.displayID)
                     .font(.title2)
                     .foregroundColor(.gray)
 
